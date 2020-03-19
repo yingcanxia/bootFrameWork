@@ -57,7 +57,7 @@
 		<ali-oss-version>2.7.0</ali-oss-version>
 		<jpinyin.version>1.1.8</jpinyin.version>
 		<xercesImpl.version>2.11.0</xercesImpl.version>
-		<shiro.version>1.3.2</shiro.version>
+		<shiro.version>1.5.1</shiro.version>
 		<jsp-api.version>2.2</jsp-api.version>
 		<guava.version>20.0</guava.version>
 		<commons-httpclient.version>3.0</commons-httpclient.version>
