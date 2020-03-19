@@ -20,7 +20,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<httpclien.version>4.4.1</httpclien.version>
 		<jackson-json.version>2.9.2</jackson-json.version>
-		<fastjson.version>1.2.7</fastjson.version>
+		<fastjson.version>1.2.25</fastjson.version>
 		<swagger-version>2.6.0</swagger-version>
 		<log4j2.version>2.11.0</log4j2.version>
 		<mybatis.version>3.4.0</mybatis.version>
