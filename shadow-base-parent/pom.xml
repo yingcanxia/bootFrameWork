@@ -61,7 +61,7 @@
 		<jsp-api.version>2.2</jsp-api.version>
 		<guava.version>20.0</guava.version>
 		<commons-httpclient.version>3.0</commons-httpclient.version>
-		<commons-compress.version>1.18</commons-compress.version>
+		<commons-compress.version>1.21</commons-compress.version>
 		<jaxb.version>2.3.0</jaxb.version>
 		<aspectjtools.version>1.8.13</aspectjtools.version>
 		<jsch.version>0.1.50</jsch.version>
