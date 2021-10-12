@@ -31,7 +31,7 @@
 		<disconf.version>2.6.36</disconf.version>
 		<fileupload.version>1.3.3</fileupload.version>
 		<javassist.version>0.2.0-incubating</javassist.version>
-		<xxl.job.version>1.9.1</xxl.job.version>
+		<xxl.job.version>2.3.0</xxl.job.version>
 		<jropen.base.sdk.version>1.3.0</jropen.base.sdk.version>
 		<bliki.version>3.1.0</bliki.version>
 		<bcpkix-jdk15on.version>1.49</bcpkix-jdk15on.version>
