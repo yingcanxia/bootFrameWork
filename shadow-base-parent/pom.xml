@@ -36,7 +36,7 @@
 		<bliki.version>3.1.0</bliki.version>
 		<bcpkix-jdk15on.version>1.49</bcpkix-jdk15on.version>
 		<jsch.version>0.1.50</jsch.version>
-		<hutool-http.version>4.0.6</hutool-http.version>
+		<hutool-http.version>5.7.19</hutool-http.version>
 		<cglib.version>3.2.6</cglib.version>
 		<xmlworker.version>5.5.12</xmlworker.version>
 		<itextpdf.version>5.5.12</itextpdf.version>
