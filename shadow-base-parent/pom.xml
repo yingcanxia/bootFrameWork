@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<httpclien.version>4.4.1</httpclien.version>
-		<jackson-json.version>2.9.2</jackson-json.version>
+		<jackson-json.version>2.12.7.1</jackson-json.version>
 		<fastjson.version>1.2.7</fastjson.version>
 		<swagger-version>2.6.0</swagger-version>
 		<log4j2.version>2.11.0</log4j2.version>
