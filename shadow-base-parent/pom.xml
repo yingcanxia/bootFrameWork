@@ -68,7 +68,7 @@
 		<jsoup.version>1.11.3</jsoup.version>
 		<aliyun-java-sdk-core-version>3.2.6</aliyun-java-sdk-core-version>
 		<aliyun-java-sdk-cloudauth>1.1.4</aliyun-java-sdk-cloudauth>
-		<commons-net.version>3.6</commons-net.version>
+		<commons-net.version>3.9.0</commons-net.version>
 		<activation.version>1.1.1</activation.version>
 		<aurora-api.version>1.0</aurora-api.version>
 		<aurora-core.version>1.0</aurora-core.version>
